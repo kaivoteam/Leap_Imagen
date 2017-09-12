@@ -1,2 +1,2 @@
 # Leap_Imagen
-Conjunto Leap e Imagen (testeado)
+Conjunto Leap e Imagen (testeado en UNIX)
